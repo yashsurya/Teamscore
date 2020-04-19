@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
       public void add2(View view){
         score2=score2+1;
           Displaymesasage2("score:" + score2);
+          
       }
 }
 
